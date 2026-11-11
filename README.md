@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=henglv618&layout=compact&theme=tokyonight)
 
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
